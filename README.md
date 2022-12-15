@@ -10,3 +10,4 @@ Apparently, PowerBi doesn’t have the world map in-built and you have to go loo
 Only for me to take another step forward and be hit by another problem. Now my dataset only had 2-ISO codes, some call it Alpha-2 codes, that is, two-letter country codes that are not showing on my shape map.
 
 I solved this by importing a web table with a list of countries and 3-ISO codes and then merged the relevant columns with my existing geographical data, and voilà, my shape map came forth.
+Enjoy!
