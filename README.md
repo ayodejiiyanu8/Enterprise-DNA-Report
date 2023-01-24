@@ -11,3 +11,5 @@ Only for me to take another step forward and be hit by another problem. Now my d
 
 I solved this by importing a web table with a list of countries and 3-ISO codes and then merged the relevant columns with my existing geographical data, and voilà, my shape map came forth.
 Enjoy!
+
+# Tool used: Power BI
